@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
   <samp>
     Hi, I'm Guru Prakash D! 👋 <br>
-    Senior Systems Engineer at Infosys Limited  <br>
+    :briefcase: Senior System Engineer at Infosys Limited  <br>
     :sparkles: Favorite Tech: JavaScript, Typescript, Angular, Node.js ... <br>
     :notebook: I’m currently pursuing masters in advanced computer science  <br>
     :email:	guru.govindaraj@gmail.com <br>
