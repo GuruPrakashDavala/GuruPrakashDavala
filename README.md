@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src=""/>
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Guru Prakash D! 👋 <br>
+    Senior Systems Engineer at Infosys Limited  <br>
+    :sparkles: Favorite Tech: JavaScript, Typescript, Angular, Node.js ... <br>
+    :notebook: I’m currently pursuing masters in advanced computer science  <br>
+    :email:	guru.govindaraj@gmail.com <br>
+    :art: Portfolio: https://guruprakashdavala.github.io <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/guru-prakash-davala-73125b125/ <br>
+  </samp>
+</p>
