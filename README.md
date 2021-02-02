@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src=""/>
- <hr></hr>
+ <!-- <img src=""/> 
+ <hr></hr> -->
 <p align="center">
   <samp>
     Hi, I'm Guru Prakash D! 👋 <br>
