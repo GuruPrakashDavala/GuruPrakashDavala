@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <samp>
     Hi, I'm Guru Prakash D! 👋 <br>
     :briefcase: Senior System Engineer at Infosys Limited  <br>
-    :sparkles: Favorite Tech: JavaScript, Typescript, Angular, Node.js ... <br>
+    :sparkles: Favourite Tech: JavaScript, Typescript, Angular, Node.js ... <br>
      <!-- :notebook: I’m currently pursuing Masters in Advanced Computer Science  <br> -->
     :email:	guru.govindaraj@gmail.com <br>
     :art: Portfolio: https://guruprakashdavala.github.io <br>
