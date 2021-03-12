@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     :sparkles: Favourite Tech: JavaScript, Typescript, Angular, Node.js ... <br>
      <!-- :notebook: I’m currently pursuing Masters in Advanced Computer Science  <br> -->
     :email:	guru.govindaraj@gmail.com <br>
-    :art: Portfolio: https://guruprakashdavala.github.io <br>
+    :art: Portfolio: https://www.guruprakashdavala.com/ <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/guru-prakash-davala-73125b125/ <br>
   </samp>
 </p>
